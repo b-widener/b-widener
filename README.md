@@ -5,7 +5,7 @@ My name is
 
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="400"/>
 </div>
 
 ---
